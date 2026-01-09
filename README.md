@@ -6,4 +6,5 @@ This project was made just out of boredom. A basic GUI tool that lets users lock
 * Select either **Encrypt** or **Decrypt**.
 * Click **Accept** to process the file.
 
-## Important: the key is hardcoded directly into the program, so I'd only recommend it for trivial tasks (or better, don't use it at all xD).
+### Important: the key is hardcoded directly into the program, so I'd only recommend it for trivial tasks.
+(or better, don't use it at all xD)
